@@ -1,0 +1,7 @@
+dev:
+  s3BucketName: bucketName
+  s3BucketRegion: cn-northwest-1
+  dynamoDBTableName: tableName
+  dynamoDBRegion: cn-northwest-1
+  useMultiPart: false
+  useDynamoDBJSONFormat: true
